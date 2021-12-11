@@ -106,9 +106,9 @@ downloadbtn.place(x=40,y=255)
 DevLeb1=tk.Label(window,text="BARAA MASRI",fg='blue',bg='whitesmoke',font=("Tajawal",12,'bold'))
 DevLeb1.place(x=225,y=350)
 DevLeb2=tk.Label(window,text="Tarafından tasarlanmış",fg='blue',bg='whitesmoke',font=("Tajawal",10))
-DevLeb2.place(x=250,y=370)
+DevLeb2.place(x=350,y=350)
 DevLeb3=tk.Label(window,text="ÇANAKKALE üniversitesi",fg='grey',bg='whitesmoke',font=("Tajawal",13,'bold'))
-DevLeb3.place(x=460,y=370)
+DevLeb3.place(x=440,y=370)
 
 #programi calismakta tutan loopu 
 window.mainloop()
